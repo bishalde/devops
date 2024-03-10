@@ -1,0 +1,12 @@
+aws.csv
+jenkinspassword.txt
+
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
